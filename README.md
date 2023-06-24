@@ -1,6 +1,5 @@
-# IoT-weather-box
+### IoT-weather-box
 
-## README
 
 This repository contains an Arduino sketch for a weather monitoring system. The system utilizes various sensors to measure temperature, humidity, pressure, altitude, rain sensor value, air quality, and UV intensity. The data is displayed on an LCD screen and also printed to the serial monitor for debugging purposes.
 
